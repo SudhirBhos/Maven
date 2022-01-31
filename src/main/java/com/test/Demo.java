@@ -4,6 +4,7 @@ public class Demo {
 
     public void encode(){
         System.out.println("encode");
+        System.out.println("encode second");
     }
     public void decode(){
 
