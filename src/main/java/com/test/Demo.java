@@ -9,6 +9,7 @@ public class Demo {
     public void decode(){
 
         System.out.println("decode");
+        System.out.println("decode second");
 
     }
 }
