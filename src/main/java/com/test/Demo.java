@@ -4,9 +4,10 @@ public class Demo {
 
     public void encode(){
         System.out.println("encode");
-
     }
     public void decode(){
+
+        System.out.println("decode");
 
     }
 }
