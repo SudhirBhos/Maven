@@ -10,6 +10,7 @@ public class Demo {
 
         System.out.println("decode");
         System.out.println("decode second");
+        int a=10;
 
     }
 }
